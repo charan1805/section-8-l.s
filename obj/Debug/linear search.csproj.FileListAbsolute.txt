@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ assigned projects\section 8\linear search\bin\Debug\linear search.exe.config
+E:\my details\personal\c sharp\ assigned projects\section 8\linear search\bin\Debug\linear search.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\linear search\bin\Debug\linear search.pdb
+E:\my details\personal\c sharp\ assigned projects\section 8\linear search\obj\Debug\linear search.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\linear search\obj\Debug\linear search.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\linear search\obj\Debug\linear search.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\linear search\obj\Debug\linear search.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\linear search\obj\Debug\linear search.pdb
